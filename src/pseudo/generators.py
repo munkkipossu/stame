@@ -1,0 +1,3 @@
+
+def lcm():
+  pass
